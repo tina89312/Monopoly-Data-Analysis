@@ -1,2 +1,2 @@
 # Monopoly-Data-Analysis
-This project is a data analysis pipeline for the board game Monopoly. It uses automated game simulations to generate data, which is then analyzed to uncover game probabilities and strategies. The process involves formulating and validating hypotheses based on observed patterns and statistical analysis.
+## [成果簡報](https://docs.google.com/presentation/d/1r9IoHhRkwH6KUCKqmQOuGHov0XGQ039W/edit?usp=drive_link&ouid=111309069608702062055&rtpof=true&sd=true)
